@@ -1,0 +1,14 @@
+.button1{
+    background-color: #c96a1c;
+    border-radius: 60px;
+    border: none;
+    color: #eeeeee;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size:15px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+
